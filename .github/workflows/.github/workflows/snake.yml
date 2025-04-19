@@ -25,4 +25,3 @@ jobs:
           git add dist/snake.svg
           git commit -m "Generated snake animation"
           git push
-        
