@@ -50,9 +50,6 @@
 - **[More Projects...](https://github.com/michealtimjoseph)**
 
 ---
-### 🐍 Contribution Calendar
-![Snake animation](https://github.com/michealtimjoseph/michealtimjoseph/blob/output/github-contribution-grid-snake.svg)
----
 ### 🤝 Let's Connect!
 <p align="center">
   <a href="https://facebook.com/emtejey" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" /></a>
