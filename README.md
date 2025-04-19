@@ -52,7 +52,6 @@
 ---
 ### 🐍 Contribution Calendar
 ![Snake animation](https://github.com/michealtimjoseph/michealtimjoseph/blob/output/github-contribution-grid-snake.svg)
-
 ---
 ### 🤝 Let's Connect!
 <p align="center">
