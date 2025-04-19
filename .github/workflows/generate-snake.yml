@@ -13,8 +13,8 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: dist/snake.svg
+          github_user_name: michealtimjoseph # Your GitHub username
+          outputs: dist/snake.svg
 
       - name: Upload snake.svg
         run: |
