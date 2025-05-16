@@ -14,7 +14,7 @@
 - 🌟 **Passionate about:** Full-stack development, open-source, and learning new technologies.
 - 💬 **Ask me about:** Python, C, and C++.
 - 🎯 **Currently working on:** Enhancing my portfolio and contributing to open-source projects.
-- 📫 **How to reach me:** [michealtimjoseph@example.com](mailto:michealtimjoseph.enriquez@gmail.com)
+- 📫 **How to reach me:** [michealtimjoseph.enriquez@gmail.com](mailto:michealtimjoseph.enriquez@gmail.com)
 
 ---
 
