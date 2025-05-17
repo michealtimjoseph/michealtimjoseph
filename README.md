@@ -45,9 +45,9 @@
 ---
 
 ### 🌟 Featured Projects
-- **[Project One](https://github.com/michealtimjoseph/project-one)**: A web application that does X, Y, Z.
-- **[Project Two](https://github.com/michealtimjoseph/project-two)**: An innovative tool for solving problem A and B.
-- **[More Projects...](https://github.com/michealtimjoseph)**
+- **[Project One](https://github.com/michealtimjoseph/Simple_Inventory_System)**: A web application that does X, Y, Z.
+- **[Project Two](https://github.com/michealtimjoseph/Encryption_program)**: An innovative tool for solving problem A and B.
+- **[More Projects...](https://github.com/michealtimjoseph?tab=repositories)**
 
 ---
 <div align="center">
