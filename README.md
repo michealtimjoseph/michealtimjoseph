@@ -3,13 +3,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Open%20to%20collaboration-green?style=for-the-badge" alt="Collaboration Badge" />
-  <img src="https://img.shields.io/github/followers/michealtimjoseph?style=for-the-badge" alt="GitHub Followers Badge" />
-</p>
-
----
-
 ###  About Me
 - 🌟 **Passionate about:** Full-stack development, open-source, and learning new technologies.
 - 💬 **Ask me about:** Python, C, and C++.
@@ -50,8 +43,9 @@
 - **[More Projects...](https://github.com/michealtimjoseph?tab=repositories)**
 
 ---
+### 🐍 Contributions section ft. snake game.
 <div align="center">
-  
+
   ![snake gif](https://github.com/michealtimjoseph/michealtimjoseph/blob/output/github-snake-dark.svg)
 </div>
 
@@ -61,5 +55,9 @@
   <a href="https://facebook.com/emtejey" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" /></a>
   <a href="https://instagram.com/timjoseeeeph/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
   <a href="mailto:michealtimjoseph.enriquez@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Open%20to%20collaboration-green?style=for-the-badge" alt="Collaboration Badge" />
+  <img src="https://img.shields.io/github/followers/michealtimjoseph?style=for-the-badge" alt="GitHub Followers Badge" />
 </p>
 
