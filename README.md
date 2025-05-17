@@ -50,9 +50,16 @@
 - **[More Projects...](https://github.com/michealtimjoseph)**
 
 ---
+<div align="center">
+  
+  ![snake gif](https://github.com/michealtimjoseph/michealtimjoseph/blob/output/github-snake-dark.svg)
+</div>
+
+---
 ### 🤝 Let's Connect!
 <p align="center">
   <a href="https://facebook.com/emtejey" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" /></a>
   <a href="https://instagram.com/timjoseeeeph/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
   <a href="mailto:michealtimjoseph.enriquez@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 </p>
+
