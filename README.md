@@ -45,8 +45,8 @@
 ---
 
 ### 🌟 Featured Projects
-- **[Project One](https://github.com/michealtimjoseph/Simple_Inventory_System)**: A web application that does X, Y, Z.
-- **[Project Two](https://github.com/michealtimjoseph/Encryption_program)**: An innovative tool for solving problem A and B.
+- **[Project One](https://github.com/michealtimjoseph/Simple_Inventory_System)**: An application ft. Tkinter simple inventory system.
+- **[Project Two](https://github.com/michealtimjoseph/Encryption_program)**: An application that encrypt/decrypt letters to 3.
 - **[More Projects...](https://github.com/michealtimjoseph?tab=repositories)**
 
 ---
