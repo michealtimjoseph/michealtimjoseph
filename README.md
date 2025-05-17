@@ -1,4 +1,4 @@
-<h1 align="center">Wassup, Timo here!</h1>
+<h1 align="center">BONJOUR!</h1>
 <h3 align="center">A passionate developer exploring new technologies and building creative solutions!</h3>
 
 ---
