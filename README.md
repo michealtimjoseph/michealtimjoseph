@@ -10,7 +10,7 @@
 - 💡 **Passionate about:** Full-stack development, open-source, and civic technology for community impact.  
 - 🎯 **Currently working on:** Enhancing my portfolio and contributing to open-source projects.  
 - 💬 **Ask me about:** Python, C, C++, and building modular, scalable systems.  
-- 🌱 **Philosophy:** I believe technology should be both powerful and accessible—tools that empower beginners and communities alike.  
+- 🌱 **Philosophy:** I believe technology should be both powerful and accessible tools that empower beginners and communities alike.  
 - 📫 **Reach me at:** [michealtimjoseph.enriquez@gmail.com](mailto:michealtimjoseph.enriquez@gmail.com)  
 
 ---
