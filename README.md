@@ -33,6 +33,11 @@
 </div>
 <div align="center">
 
+<div align="center">
+
+![bloodmoon](https://github.com/user-attachments/assets/a8d38c3b-2c65-4106-a1ff-65af7b3b8112)
+</div>
+
 ### 🌐 Connect with me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourusername)
@@ -45,8 +50,4 @@
 ![Profile views](https://komarev.com/ghpvc/?username=michealtimjoseph&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/michealtimjoseph?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/michealtimjoseph?style=social)
-</div>
-<div align="center">
-
-![bloodmoon](https://github.com/user-attachments/assets/a8d38c3b-2c65-4106-a1ff-65af7b3b8112)
 </div>
