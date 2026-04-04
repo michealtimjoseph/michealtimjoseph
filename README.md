@@ -101,7 +101,7 @@
 
 ```yaml
 name        : Micheal Tim Joseph Enriquez
-alias       : michealtimjoseph
+alias       : timjoseph
 role        : Full-Stack Software Engineer
 origin      : Philippines 🇵🇭
 philosophy  : "Build with purpose. Design with empathy. Ship with precision."
