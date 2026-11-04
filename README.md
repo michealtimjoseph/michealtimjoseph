@@ -53,10 +53,9 @@ An interactive web resume with dynamic content, theme switching, and JavaScript 
 
 ---
 
-<div align="center">
-
 ### GitHub activity
 
+<div align="center">
 <img src="https://streak-stats.demolab.com?user=michealtimjoseph&hide_border=true&background=0B1020&ring=8B7CFF&fire=6C9BFF&currStreakNum=F5F7FF&sideNums=B8C5E8&currStreakLabel=C4C9FF&sideLabels=9AA8CC&dates=6F7FA8" width="65%" alt="GitHub Streak" />
 
 </div>
