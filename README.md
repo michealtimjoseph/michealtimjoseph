@@ -1,27 +1,53 @@
  <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:243B70,100:6C63D6&height=155&section=header&text=MICHEAL%20TIM%20JOSEPH&fontSize=36&fontColor=F5F7FF&fontAlignY=50" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08060D,30:1D0B29,65:65213C,100:FF7518&height=250&section=header&text=MICHEAL%20TIM%20JOSEPH&fontSize=42&fontColor=FF8A3D&fontAlignY=38&desc=ENTER%20THE%20REALM%20OF%20CODE&descSize=15&descColor=D7B5FF&animation=fadeIn" width="100%"/>
+### IT Student · Developer · Curious Builder
 
-<br/>
+Building practical digital experiences through code.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=FF8133&center=true&vCenter=true&width=650&lines=Crafting+digital+experiences.;Building+the+future+one+line+at+a+time.;Turning+ideas+into+reality.;Code+fearlessly.+Create+limitlessly." />
+[GitHub](https://github.com/michealtimjoseph) · [LinkedIn](https://linkedin.com/in/michealtimjoseph) · [Portfolio](https://github.com/michealtimjoseph/portfolio) · [Email](mailto:michealtimjoseph.enriquez@gmail.com)
 
-<br/><br/>
+</div>
 
-**SOFTWARE DEVELOPER** &nbsp; ◆ &nbsp; **UI/UX DESIGNER** &nbsp; ◆ &nbsp; **AI EXPLORER**
+---
 
-*Somewhere between creativity and technology, great things happen.*
+### About
 
-<br/>
+Hey, I'm **Micheal Tim Joseph**, an IT student interested in software development, application design, and emerging technologies.
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-17101F?style=for-the-badge&logo=linkedin&logoColor=FF812E)](https://linkedin.com/in/michealtimjoseph)
-[![Email](https://img.shields.io/badge/EMAIL-17101F?style=for-the-badge&logo=gmail&logoColor=FF812E)](mailto:michealtimjoseph.enriquez@gmail.com)
-[![Facebook](https://img.shields.io/badge/FACEBOOK-17101F?style=for-the-badge&logo=facebook&logoColor=FF812E)](https://facebook.com/emtejey)
-[![X](https://img.shields.io/badge/X-17101F?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://twitter.com/michealtimjoseph)
+I enjoy turning ideas into working applications, exploring different technologies, and continuously improving my development skills.
 
-<br/>
+Currently focused on web development, mobile applications, backend systems, and applied AI.
 
-![Profile Views](https://komarev.com/ghpvc/?username=michealtimjoseph&style=flat-square&color=8B315A&label=VISITORS)
+### Selected work
+
+**[DreamHome — Property Management System](https://github.com/michealtimjoseph/Property-Management-System)**
+
+A property management platform built for handling properties, renters, leases, staff, and financial reporting.
+
+`Laravel 12` `PHP` `PostgreSQL` `Tailwind CSS`
+
+**[CleverMart — Inventory & POS](https://github.com/michealtimjoseph/Simple_Inventory_System)**
+
+A Python desktop application featuring inventory management, product sales, and transaction tracking.
+
+`Python` `Tkinter` `CSV`
+
+**[Personal Web Resume](https://github.com/michealtimjoseph/my-resume)**
+
+An interactive web resume with dynamic content, theme switching, and JavaScript interactions.
+
+`HTML` `CSS` `JavaScript` `jQuery`
+
+[Explore all repositories →](https://github.com/michealtimjoseph?tab=repositories)
+
+---
+
+### Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,php,laravel,react,tailwind,postgres,git,github,vscode&theme=dark" />
 
 </div>
 
@@ -29,147 +55,24 @@
 
 <div align="center">
 
-## 🦇 THE CREATOR BEHIND THE SCREEN
+### GitHub activity
 
-</div>
-
-Hey! I'm **Micheal Tim Joseph**, a developer passionate about building meaningful digital experiences.
-
-I enjoy transforming ideas into functional applications, designing interfaces that feel intuitive, and exploring technologies that push software forward.
-
-My interests live at the intersection of:
-
-- 💻 **Software Engineering** — Building web, mobile, and desktop applications.
-- 🎨 **UI/UX Design** — Creating clean interfaces and thoughtful user experiences.
-- 🤖 **Artificial Intelligence** — Exploring intelligent applications and automation.
-- 🗄️ **Backend Development** — Working with APIs, databases, and application architecture.
-
-<details>
-<summary>🎃 A LITTLE MORE ABOUT ME</summary>
-
-<br/>
-
-- 🌍 Based in the Philippines.
-- 🔭 Always experimenting with new technologies.
-- 🌱 Currently strengthening my React and full-stack development skills.
-- ⚡ I believe the best way to learn is to build something.
-
-</details>
-
----
-
-<div align="center">
-
-## 🕸️ PROJECTS FROM THE SHADOWS
-
-*Ideas brought to life through code.*
-
-</div>
-
-### 🏚️ DreamHome PMS
-<kbd>LARAVEL</kbd> <kbd>PHP</kbd> <kbd>TAILWIND CSS</kbd>
-
-A property management system designed to organize property listings, clients, and staff through a streamlined platform.
-
-### 🌿 HydroVerde
-<kbd>REACT NATIVE</kbd> <kbd>EXPO</kbd>
-
-An agriculture-focused mobile application featuring authentication and a clean, nature-inspired user interface.
-
-### 🏍️ MotorRent
-<kbd>EXPO ROUTER</kbd> <kbd>SQLITE</kbd>
-
-A mobile motor rental application with local authentication and organized tab-based navigation.
-
-### 🚀 Developer Portfolio
-<kbd>REACT</kbd> <kbd>TAILWIND CSS</kbd>
-
-A space-themed personal portfolio showcasing development projects, skills, and creative work.
-
-<div align="center">
-
-[![Explore Repositories](https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-FF7518?style=for-the-badge&logo=github&logoColor=black)](https://github.com/michealtimjoseph?tab=repositories)
+<img src="https://streak-stats.demolab.com?user=michealtimjoseph&hide_border=true&background=0B1020&ring=8B7CFF&fire=6C9BFF&currStreakNum=F5F7FF&sideNums=B8C5E8&currStreakLabel=C4C9FF&sideLabels=9AA8CC&dates=6F7FA8" width="65%" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-<div align="center">
+### Currently exploring
 
-## ⚔️ THE TECH ARSENAL
-
-*My collection of tools, languages, and digital weapons.*
-
-### 🧪 LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,php,c,cpp&theme=dark" />
-
-### 🎨 FRONTEND & DESIGN
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,figma,alpinejs&theme=dark" />
-
-### 🧛 BACKEND & FRAMEWORKS
-
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,fastapi&theme=dark" />
-
-### 🗄️ DATABASES
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase&theme=dark" />
-
-### 🔮 TOOLS & PLATFORMS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,arduino&theme=dark" />
-
-### 📱 MOBILE DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=react,expo,androidstudio&theme=dark" />
-
-</div>
+`React Native` · `Expo` · `API Development` · `Artificial Intelligence` · `IoT`
 
 ---
-
 <div align="center">
 
-## 🔮 WHAT'S NEXT?
-
-</div>
-
-Currently exploring new ways to combine technology, creativity, and intelligent systems.
-
-<br/>
-
-<kbd>ARTIFICIAL INTELLIGENCE</kbd> &nbsp; <kbd>REACT NATIVE</kbd>
-
-<br/><br/>
-
-<kbd>API DEVELOPMENT</kbd> &nbsp; <kbd>DATABASE ENGINEERING</kbd>
-
-<br/><br/>
-
-<kbd>UI/UX DESIGN</kbd> &nbsp; <kbd>INTERNET OF THINGS</kbd>
-
----
-
-<div align="center">
-
-## 👻 LET'S CONNECT
-
-*Every great collaboration starts with a conversation.*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-25102E?style=for-the-badge&logo=linkedin&logoColor=FF7518)](https://linkedin.com/in/michealtimjoseph)
-
-[![Email](https://img.shields.io/badge/SEND_ME_A_MESSAGE-25102E?style=for-the-badge&logo=gmail&logoColor=FF7518)](mailto:michealtimjoseph.enriquez@gmail.com)
-
-<br/><br/>
-
-### 🎃 HAPPY CODING, AND DON'T LET THE BUGS BITE!
-
-*“Great software doesn't just solve problems. It creates possibilities.”*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7518,35:742747,70:1D0B29,100:08060D&height=160&section=footer" width="100%"/>
-
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1A,35:172554,70:3730A3,100:6366F1&height=180&section=footer&text=Designed%20with%20simplicity%20in%20mind.&fontSize=18&fontColor=C7D2FE&fontAlignY=65"
+  width="100%"
+  alt="Designed with simplicity in mind."
+/>
 </div>
